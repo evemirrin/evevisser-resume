@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .info {
-	color: darkblue;
+	color: #2D3D56;
 	font-style: oblique;
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #0A4B85;
 }
 
 .biography-details li, .skill-list li {
